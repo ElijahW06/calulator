@@ -1,0 +1,5 @@
+user_number_1 = int(input("first number:"))
+user_sign = input("math symbol:")
+user_number_2 = int(input("second number:"))
+
+print (user_number_1) + (user_sign) + (user_number_2)
